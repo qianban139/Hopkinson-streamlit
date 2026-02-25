@@ -1,0 +1,29 @@
+# 数智化电磁驱动霍普金森杆测试系统 - 依赖包列表
+# Python 3.8+ required
+
+# Web框架
+streamlit==1.51.0
+
+# 数据处理
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+
+# 深度学习
+tensorflow==2.20.0
+keras==3.12.0
+
+# 数据可视化
+plotly==6.5.0
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# 信号处理
+PyWavelets==1.8.0
+
+# 机器学习
+scikit-learn==1.7.2
+
+# 其他工具
+Pillow==12.0.0
+openpyxl==3.1.5
